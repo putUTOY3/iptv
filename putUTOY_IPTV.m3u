@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rick and Morty" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
+#EXTINF:-1 tvg-id="Samurai Jack" tvg-country="US" tvg-language="English" tvg-logo="" group-title="AdultSwim",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream_7.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",Nickelodeon
+https://h4.ustvgo.la/Nickelodeon/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSAzOjAyOjA3IEFNJmhhc2hfdmFsdWU9SmU3Y1JTdlNxRmoyWFo2cnNJM0FFZz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",Cartoon Network
+https://h1.ustvgo.la/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA0OjQ5OjUwIEFNJmhhc2hfdmFsdWU9alE3TFl2M0M0RmFJNkRoNjFHelRxQT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="NickToons" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",NickToons
+https://h4.ustvgo.la/Nicktoons/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA0OjUzOjEwIEFNJmhhc2hfdmFsdWU9V1F2ZFdLM1l6WkNGYTFnRkZFSklTdz09JnZhbGlkbWludXRlcz0yNDA= 
+#EXTINF:-1 tvg-id="Disney" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",Disney
+https://h2.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjAyOjIxIEFNJmhhc2hfdmFsdWU9NE41aWxXdVFydTZ3Zyt4aVZFQlFPUT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="DisneyXD" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",DisneyXD
+https://h3.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjA2OjUxIEFNJmhhc2hfdmFsdWU9S2RQMkdXS2NyTjk1T3A0WlVnZlhuZz09JnZhbGlkbWludXRlcz0yNDA= 
+#EXTINF:-1 tvg-id="DisneyJr" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",DisneyJr
+https://h4.ustvgo.la/DisneyJr/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjA0OjEzIEFNJmhhc2hfdmFsdWU9bytkWE1SRVZXK3hPajJ1c0ZjaVU4Zz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="Boomerang" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Kids",Boomerang
+https://h2.ustvgo.la/Boomerang/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA0OjU5OjEwIEFNJmhhc2hfdmFsdWU9cHllbUxpUzA1YUFUSHBmTXh6cDczZz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="ABC" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",ABC
+https://h1.ustvgo.la/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA0OjU4OjAwIEFNJmhhc2hfdmFsdWU9N0lBV0hsV094enV0UG9qN01CcnFOdz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="ACC Network" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",ACC Network
+https://h2.ustvgo.la/ACCN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjEwOjEwIEFNJmhhc2hfdmFsdWU9TG93WU5LNTlWNW1jQlZFaHhZNEk5Zz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="AMC" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",AMC
+https://h1.ustvgo.la/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjExOjI2IEFNJmhhc2hfdmFsdWU9UnRXa3lmYUg1K001QTJZbEp4VnJiZz09JnZhbGlkbWludXRlcz0yNDA= 
+#EXTINF:-1 tvg-id="Animal Planet" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Educational",Animal Planet
+https://h4.ustvgo.la/Animal/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjIwOjQxIEFNJmhhc2hfdmFsdWU9RDBpNFBEMGVub3cyZlpJMnd5cTlwQT09JnZhbGlkbWludXRlcz0yNDA= 
+#EXTINF:-1 tvg-id="BBC America" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",BBC America
+https://h2.ustvgo.la/BBCAmerica/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjIxOjIxIEFNJmhhc2hfdmFsdWU9SHJUcHdwSFJxU3BCZ0hna0lBcWVYQT09JnZhbGlkbWludXRlcz0yNDA= 
+#EXTINF:-1 tvg-id="Cinemax" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertainment",Cinemax
+https://h1.ustvgo.la/Cinemax/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjIzOjAyIEFNJmhhc2hfdmFsdWU9S1lJaDdGZThhcE5CVHBIRVhHTmxnZz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="CBS" tvg-country="US" tvg-language="English" tvg-logo="" group-title="News",CBS
+https://h3.ustvgo.la/CBS/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjIzOjQ5IEFNJmhhc2hfdmFsdWU9KzFOeDBXbENFRzJ3RkNXdnhKV1VHQT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="Comedy Central" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertainment",Comedy Central
+https://h2.ustvgo.la/Comedy/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjI0OjMxIEFNJmhhc2hfdmFsdWU9a3hPSFlYODdSNy9tT3dRUXNZaXFtUT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="FOX" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertainment",FOX
+https://h4.ustvgo.la/FOX/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjI1OjE5IEFNJmhhc2hfdmFsdWU9cDFXY0JzVTV4WFYzU0hHamxrYmhpZz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="FXM" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertainment",FXM
+https://h4.ustvgo.la/FXMovie/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjI2OjA5IEFNJmhhc2hfdmFsdWU9TmpsUjJlNHpBNzJ1NERRdTZFVTlBdz09JnZhbGlkbWludXRlcz0yNDA= 
+#EXTINF:-1 tvg-id="WWE Network" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertainment",WWE Network
+https://h1.ustvgo.la/WWE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjI2OjQ1IEFNJmhhc2hfdmFsdWU9akh4d2MwN2dXeVFINy85d0NJdUorZz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Educational",NAT GEO WILD
+https://h3.ustvgo.la/NatGEOWild/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjI3OjI4IEFNJmhhc2hfdmFsdWU9RDFVZlJobC9yNDJxUVFWdkRnZ09jQT09JnZhbGlkbWludXRlcz0yNDA= 
+#EXTINF:-1 tvg-id="MTV" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Entertainment",MTV
+https://h3.ustvgo.la/MTV/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjI4OjEyIEFNJmhhc2hfdmFsdWU9U1lXRXN4OUdrcGZHQWVhckFJbW14UT09JnZhbGlkbWludXRlcz0yNDA=
